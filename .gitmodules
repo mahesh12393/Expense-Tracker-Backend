@@ -1,0 +1,15 @@
+[submodule "auth-service"]
+	path = auth-service
+	url = https://github.com/mahesh12393/AuthService
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/mahesh12393/UserService
+[submodule "expense-service"]
+	path = expense-service
+	url = https://github.com/mahesh12393/Expense_service
+[submodule "ds-service"]
+	path = ds-service
+	url = https://github.com/mahesh12393/ds_service
+[submodule "kong-apigatway-config"]
+	path = kong-apigatway-config
+	url = https://github.com/mahesh12393/ExpenseTrackerApp-Deps
